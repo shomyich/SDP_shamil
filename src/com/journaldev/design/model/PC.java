@@ -4,6 +4,7 @@ public class PC extends Computer {
     private String hdd;
     private String cpu;
 
+
     public PC(String ram, String hdd, String cpu){
         this.ram=ram;
         this.hdd=hdd;
